@@ -24,8 +24,6 @@ origins = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
     "http://localhost:8000",
-    "https://backend-metropolitan.onrender.com",
-    "http://backend-metropolitan.onrender.com", # <- ADICIONADO
     "https://bancometropolitan.com.br",       # Seu domínio oficial
     "https://www.bancometropolitan.com.br",   # Seu domínio com www
     "http://bancometropolitan.com.br",        # Versão http (por precaução)
